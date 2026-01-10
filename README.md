@@ -22,9 +22,9 @@ Findings are based on the sample and may not represent the entire Airbnb market.
 - Entire homes/apartments are the most expensive, followed by private rooms, and shared rooms are the least expensive.
 - This indicates a relative relationship where larger units tend to be priced higher than smaller or shared accommodations.
 
-**Chart Preview:**  
-![Average Price by Room Type](Airbnb_50_listings_analysis/Report/pivot_price_by_room_type.png)
-![Average Price by Room Type](https://github.com/RioJeffery/Airbnb_50_listings_analysis/Report/pivot_price_by_room_type.png?raw=true)
+**Pivot Preview:**  
+![Average Price by Room Type](https://github.com/RioJeffery/Exploratory-Data-Analysis-of-NYC-Airbnbs/blob/5d3e5f68b115e48befae4b5360b387e24711478e/Airbnb%2050%20listings%20analysis/Report/pivot_price_by_room_type.png)
+
 ---
 
 ### Pivot 2: Listings by Neighbourhood
@@ -33,7 +33,7 @@ Findings are based on the sample and may not represent the entire Airbnb market.
 - This indicates hosts are more concentrated in certain neighbourhoods. The dataset does not include guest demand or reasons for concentration.
 
 **Chart Preview:**  
-![Listings by Neighbourhood](Airbnb_50_listings_analysis/Report/Count_of_calculated_host_listings_per_neighbourhood.png)
+![Listings by Neighbourhood](https://github.com/RioJeffery/Exploratory-Data-Analysis-of-NYC-Airbnbs/blob/5d3e5f68b115e48befae4b5360b387e24711478e/Airbnb%2050%20listings%20analysis/Report/pivot_listings_by_neighbourhood.png)
 
 ---
 
