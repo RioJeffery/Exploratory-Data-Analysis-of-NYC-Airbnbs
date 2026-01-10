@@ -23,7 +23,7 @@ Findings are based on the sample and may not represent the entire Airbnb market.
 - This indicates a relative relationship where larger units tend to be priced higher than smaller or shared accommodations.
 
 **Chart Preview:**  
-![Average Price by Room Type](report/pivot_price_by_room_type.png)
+![Average Price by Room Type](Airbnb_50_listings_analysis/Report/pivot_price_by_room_type.png)
 
 ---
 
@@ -33,7 +33,7 @@ Findings are based on the sample and may not represent the entire Airbnb market.
 - This indicates hosts are more concentrated in certain neighbourhoods. The dataset does not include guest demand or reasons for concentration.
 
 **Chart Preview:**  
-![Listings by Neighbourhood](report/pivot_listings_by_neighbourhood.png)
+![Listings by Neighbourhood](Airbnb_50_listings_analysis/Report/Count_of_calculated_host_listings_per_neighbourhood.png)
 
 ---
 
