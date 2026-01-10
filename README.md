@@ -24,7 +24,7 @@ Findings are based on the sample and may not represent the entire Airbnb market.
 
 **Chart Preview:**  
 ![Average Price by Room Type](Airbnb_50_listings_analysis/Report/pivot_price_by_room_type.png)
-
+![Average Price by Room Type](https://github.com/RioJeffery/Airbnb_50_listings_analysis/Report/pivot_price_by_room_type.png?raw=true)
 ---
 
 ### Pivot 2: Listings by Neighbourhood
