@@ -1,7 +1,7 @@
 # Airbnb 50 Listings Analysis
 
 ## Project Overview
-This project analyzes a sample of 50 Airbnb listings to explore:
+This project analyses a sample of 50 Airbnb listings to explore:
 - Distribution of listings across neighbourhoods
 - Average price per night by room type
 
